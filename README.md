@@ -1,1 +1,5 @@
-# micros-proyecto-proyecto-2da-Entrega
+# Proyecto - 2da entrega
+
+## Integrantes
+
+## Documentación
